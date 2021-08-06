@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/City Pack/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Stage04_minigame.unity
+    guid: 2e9480e1d64abde4da99135853eb7ddb
+  - enabled: 1
+    path: Assets/Scenes/Stage04_Main_1.unity
+    guid: 26c8b7cabfbc5aa418d268dbf2fc458d
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: dff731f1ef2ffbf4a8430ad53707d07a
+  - enabled: 1
+    path: Assets/Scenes/Epilogue.unity
+    guid: 4017deecaaaaf92449ef105c1de13710
+  - enabled: 1
+    path: Assets/Scenes/Epilogue2.unity
+    guid: 7c90ea4b9598bea408ab07369903dd46
+  - enabled: 1
+    path: Assets/Scenes/Stage03_Main_1.unity
+    guid: dc57d90b2934c0c41b5a9e5f0f23c0ee
+  - enabled: 1
+    path: Assets/Scenes/Stage03_minigame.unity
+    guid: 201df3b32c865034ab8cc9df558eca3b
+  - enabled: 1
+    path: Assets/Scenes/Stage03_Main_2.unity
+    guid: 193384610ddef8e48a080cedd9aaafd4
+  - enabled: 1
+    path: Assets/Scenes/Stage05_minigame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Stage04_Main_2.unity
+    guid: cd332fa14012f4344bcb14f3cca287d7
+  - enabled: 1
+    path: Assets/Scenes/Stage05_Main_2.unity
+    guid: d98d13c01787b1247bd54501d912a6c8
+  - enabled: 1
+    path: Assets/Scenes/Close.unity
+    guid: 22a0e19dd7afce84c887f1ae8d636d5d
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: cace2b246fa959447be494a800e15eee
+  - enabled: 0
+    path: 
+    guid: 5d78e461eb5fcdf41b119b466cc33d36
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 56b91cc84362b4a488240fcc7eef569c
+  - enabled: 1
+    path: Assets/Scenes/Stage05_Main_1.unity
+    guid: 921b06cce55149449b380bfaea7ccfb8
+  - enabled: 1
+    path: Assets/Scenes/Stage02_Main.unity
+    guid: 2dc428d15f4b23e4fa8ce6555215f32e
+  m_configObjects: {}
